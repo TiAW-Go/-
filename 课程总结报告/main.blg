@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+The style file: plain.bst
+Database file #1: references.bib
+Warning--there's a number but no volume in 3
+Warning--empty year in 3
+Warning--empty year in 6
+Warning--empty year in 8
+Warning--empty year in 7
+Warning--empty year in 5
+Warning--there's a number but no volume in 2
+Warning--empty year in 2
+Warning--empty year in 9
+Warning--empty year in 4
+Warning--there's a number but no volume in 1
+Warning--empty year in 1
+You've used 9 entries,
+            2118 wiz_defined-function locations,
+            527 strings with 4581 characters,
+and the built_in function-call counts, 1898 in all, are:
+= -- 174
+> -- 63
+< -- 0
++ -- 27
+- -- 18
+* -- 107
+:= -- 354
+add.period$ -- 27
+call.type$ -- 9
+change.case$ -- 36
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 90
+empty$ -- 157
+format.name$ -- 18
+if$ -- 367
+int.to.chr$ -- 0
+int.to.str$ -- 9
+missing$ -- 9
+newline$ -- 48
+num.names$ -- 18
+pop$ -- 51
+preamble$ -- 1
+purify$ -- 27
+quote$ -- 0
+skip$ -- 51
+stack$ -- 0
+substring$ -- 45
+swap$ -- 9
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 36
+warning$ -- 12
+while$ -- 18
+width$ -- 10
+write$ -- 86
+(There were 12 warnings)
